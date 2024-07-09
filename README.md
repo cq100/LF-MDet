@@ -46,7 +46,7 @@ nohup python3  {config_path}\
 and the trained model is available in ``'./checkpoints/'``.
 
 
-**4 LF-MDet Testing**
+**4. LF-MDet Testing**
 
 Run 
 ```
@@ -60,7 +60,7 @@ python3  {config_path}\
 ``` 
 
 
-**5 The visualizing detection results of our approach on the VEDAI and DroneVehicle datasets.**
+**5. The visualizing detection results of our approach on the VEDAI and DroneVehicle datasets.**
 
 <img src="image//results1.png" width="90%" align=center />
 
